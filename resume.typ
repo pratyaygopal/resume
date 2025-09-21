@@ -20,7 +20,7 @@
 
 #coursework_item(
   category: "Relevant Coursework:",
-  courses: "Computer Organization and Design, FPGA, Operating Systems, Digital Design, Logic Synthesis, Parallel Programming, Data Structures, Electronics, Analog Signal Processing",
+  courses: "Computer Organization and Design, FPGA, Operating Systems, VLSI Design, Logic Synthesis, Parallel Programming, Data Structures, Electronics, Analog Signal Processing",
 )
 
 #resume_heading[Experience]
@@ -69,7 +69,7 @@
 
 #project_item(
   name: "WRAITH: A Resource-Efficient Dataflow Accelerator",
-  skills: "",
+  skills: "pratyay.org/docs/wraith.pdf",
   [Working on the RTL, Verification and Layout of the CGRA mesh and preiperal in order pipeline processors.],
   [Targeting tapeout of a preliminary architecture on TSMC’s 65nm process node in Fall 2025.]
 )
