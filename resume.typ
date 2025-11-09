@@ -14,7 +14,7 @@
 #edu_item(
   name: "University Of Illinois Urbana Champaign",
   degree: "Bachelor of Science in Computer Engineering, Minor in Mathematics",
-  location: "GPA: 3.7/4.0",
+  location: "GPA: 3.67/4.0",
   date: "December 2026"
 )
 
