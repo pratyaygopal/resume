@@ -43,14 +43,14 @@
 
 
 #exp_item(
-  role: "Computer Architecture [ECE411] Course Assistant",
+  role: "Computer Architecture Course Assistant",
   date: "Aug 2025 -- Present",
   [Hosted office hours for class projects like the pipelined processor and multicycle set associative cache.],
   [Clarified doubts during office hours, conducted exam review sessions and proctored exams for 150+ students.]
 )
 
 #exp_item(
-  role: "Digital Systems FPGA [ECE385] Course Assistant",
+  role: "Digital Systems FPGA Course Assistant",
   date: "Jan 2025 -- Present",
   [Hosted office hours for course’s FPGA projects including VGA text controller and RISC processor.],
   [Moderated the 1000+ members class discord server and clarified student questions on SV and FPGA testing.],
@@ -70,8 +70,8 @@
 #project_item(
   name: "WRAITH: A Resource-Efficient Dataflow Accelerator",
   skills: "pratyay.org/docs/wraith.pdf",
-  [Working on the RTL, Verification and Layout of the CGRA mesh and preiperal in order pipeline processors.],
-  [Targeting tapeout of a preliminary architecture on TSMC’s 65nm process node in Fall 2025.]
+  [Working on the RTL and Verification of the CGRA mesh and preiperal in order pipeline processors.],
+  [Targeting tapeout of a preliminary architecture on TSMC’s 65nm process node in Spring 2026.]
 )
 
 #project_item(
