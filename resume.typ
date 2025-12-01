@@ -34,19 +34,12 @@
 )
 
 #exp_item(
-  role: "PCB Design Intern, Apollo Computing Laboratories",
-  date: "June 2024 - Aug 2024",
-  [Developed a 2-layer 8-channel power delivery board to enable high availability data-center applications.],  
-  [Designed and implemented hardware to control power supply to a  server, ensuring precise control.],
-  [Documented design process, BOMs, and test procedures for future manufacturing and certification.]
-)
-
-
-#exp_item(
   role: "Computer Architecture Course Assistant",
   date: "Aug 2025 -- Present",
   [Hosted office hours for class projects like the pipelined processor and multicycle set associative cache.],
-  [Clarified doubts during office hours, conducted exam review sessions and proctored exams for 150+ students.]
+  [Mentored student project groups and helped them debug RTL, analyze timing, and promoted design thinking.],
+  [Designed exam questions for the midterm and final, ensuring alignment with course learning objectives.],
+  [Conducted project related review sessions and proctored exams for 150+ students.]
 )
 
 #exp_item(
@@ -61,18 +54,12 @@
   role: "President, ACM SIGARCH@UIUC",
   date: "Aug 2024 - Present",
   [Officer and Workshop Lead for UIUC’s premier computer architecture student organization. (sigarch.net)],
-  [Designing workshops to introduce students to RTL design and simulation, computer architecture and ISAs.]
+  [Designing workshops to introduce students to RTL design and simulation, computer architecture and ISAs.],
+  [Organized and collaborated with SIGrobotics to host a recuiting event for Neuralink at UIUC.]
 )
 
 
 #resume_heading("Projects")
-
-#project_item(
-  name: "WRAITH: A Resource-Efficient Dataflow Accelerator",
-  skills: "pratyay.org/docs/wraith.pdf",
-  [Working on the RTL and Verification of the CGRA mesh and preiperal in order pipeline processors.],
-  [Targeting tapeout of a preliminary architecture on TSMC’s 65nm process node in Spring 2026.]
-)
 
 #project_item(
   name: "Superscalar Out-of-Order RISC-V CPU",
@@ -80,6 +67,13 @@
   [Created a speculative out-of-order RISC-V CPU with an ERR architecture, implementing the RV32IM spec.],
   [Supports upto 2 instruction commits per cycle, multiple integer execution units, parametric multiplier/div, etc.],
   [Synthesized dual-issue/commit core with L0+L1 cache on FreePDK’s 45nm process node at 525MHz]
+)
+
+#project_item(
+  name: "GOONIX - A Unix based Operating System for RISC-V",
+  skills: "",
+  [Implementing key components including virtual memory management, preemptive multitasking.],
+  [Built device drivers for VirtIO devices and designed a read/write ext2-based filesystem with caching.]
 )
 
 #project_item(
